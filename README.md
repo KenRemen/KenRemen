@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, movies & music.
 - 🌱 I’m currently learning basic java & html.
 - 💞️ I’m looking to collaborate on basic stuff.
-- 📫 How to reach me KenRemenATgmail.com
+- 📫 How to reach me kerem9811@oslomet.no
 
 <!---
 KenRemen/KenRemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
