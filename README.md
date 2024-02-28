@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kerem9811
+- 👋 Hi, I’m Ken
 - 👀 I’m interested in coding, movies & music.
-- 🌱 I’m currently learning basic java & html.
+- 🌱 I’m currently learning basic java, html, css & javascript.
 - 💞️ I’m looking to collaborate on basic stuff.
 - 📫 How to reach me kerem9811@oslomet.no
 
